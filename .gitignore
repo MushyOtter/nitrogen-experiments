@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Model weights
+*.pt
+*.pth
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
